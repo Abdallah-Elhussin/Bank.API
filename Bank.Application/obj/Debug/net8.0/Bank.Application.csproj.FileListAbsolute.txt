@@ -1,0 +1,15 @@
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\bin\Debug\net8.0\Bank.Application.deps.json
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\bin\Debug\net8.0\Bank.Application.dll
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\bin\Debug\net8.0\Bank.Application.pdb
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\bin\Debug\net8.0\Bank.Domain.dll
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\bin\Debug\net8.0\Bank.Domain.pdb
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\Bank.Application.csproj.AssemblyReference.cache
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\Bank.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\Bank.Application.AssemblyInfoInputs.cache
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\Bank.Application.AssemblyInfo.cs
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\Bank.Application.csproj.CoreCompileInputs.cache
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\Bank.App.D97C6606.Up2Date
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\Bank.Application.dll
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\refint\Bank.Application.dll
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\Bank.Application.pdb
+C:\Users\PCDEV\source\repos\BankAPI\Bank.Application\obj\Debug\net8.0\ref\Bank.Application.dll
